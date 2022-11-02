@@ -1,4 +1,3 @@
-# cs 361 exercise 3
-# Anna Vosko
-# playing by the clean code books rules, chapters 5 and 6
-# 361exercise3
+cs 361 exercise 4
+Anna Vosko
+# 361exercise4
